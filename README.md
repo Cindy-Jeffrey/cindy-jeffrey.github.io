@@ -10,4 +10,5 @@ A one page website of Cindy and Jeffrey YouTube channel.
 
 ## Credit
 Original source code is from [https://github.com/PeterMorganGH/youtube-channel-website](Peter Morgan).
+Background is from: [https://www.cokesbury.com/free-zoom-backgrounds](Cokesbury)
 Pictures used in demo are from [http://cupcake.nilssonlee.se](http://cupcake.nilssonlee.se).
