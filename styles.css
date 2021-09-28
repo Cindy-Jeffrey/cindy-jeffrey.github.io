@@ -1,7 +1,7 @@
 html {
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url('http://via.placeholder.com/1600x700/777/000000/');
+  background-image: url('images/background.jpg');
   min-height: 100%;
 }
 body {

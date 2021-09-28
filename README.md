@@ -1,15 +1,5 @@
-# Youtube Channel Website
-A one page website for your YouTube channel.
-
-## What to Change
-- Background image in *styles.css*
-- Text in <title> tag
-- "Channel Name" in header
-- Links in header
-- Text in "About" box
-- "Watch Now" link
-- Embedded video ID
-- Playlist link images
+# Cindy and Jeffrey Learning and Funplay
+A one page website of Cindy and Jeffrey YouTube channel.
 
 ## Resources
 - [Bootstrap](http://getbootstrap.com/)
@@ -18,5 +8,6 @@ A one page website for your YouTube channel.
 - [Google Fonts](https://fonts.google.com/)
 - [Placeholder](https://placeholder.com/)
 
-## Demo
+## Credit
+Original source code is from [https://github.com/PeterMorganGH/youtube-channel-website](Peter Morgan).
 Pictures used in demo are from [http://cupcake.nilssonlee.se](http://cupcake.nilssonlee.se).
