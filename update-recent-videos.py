@@ -18,9 +18,10 @@ params = dict(
     order='date',
     maxResults=6
 )
+print(os.environ.get('YOUTUBE_API_KEY'))
 resp = requests.get(url=url, params=params)
 data = resp.json()
-#print(json.dumps(data, indent=2))
+print(json.dumps(data, indent=2))
 index = 0
 for item in data['items']:
     video_url = 'https://www.youtube.com/watch?v=' + item['id']['videoId']
